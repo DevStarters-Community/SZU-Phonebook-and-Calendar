@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:教育发展基金会
+ORG:教育发展基金会
+TEL;TYPE=WORK,VOICE:0755-26567229
+ADR;TYPE=WORK:;;深圳市南山区南海大道3688号;;;;China
+EMAIL;TYPE=WORK,INTERNET:szdxcmlabjjh@szu.edu.cn
+URL:https://edf.szu.edu.cn
+NOTE:本基金会的宗旨：支持高等教育，为促进我国教育事业的发展做出贡献。
+X-ATTACH;VALUE=URI:https://edf.szu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1476491481&wbfileid=7765441
+END:VCARD
