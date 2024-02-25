@@ -368,7 +368,7 @@ DTSTAMP:20240223T160000Z
 DTSTART;VALUE=DATE:20240701
 DTEND;VALUE=DATE:20240702
 SUMMARY:第十八周（期末考试周）
-DESCRIPTION:2023-2024学年第二学期第十八周期末考试周开始\n编程小白社祝您好运！\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
+DESCRIPTION:2023-2024学年第二学期第十八周期末考试周开始\n编程小白社祝您考试顺利！\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
 LOCATION:广东省深圳市南山区南海大道3688号深圳大学
 GEO:22.531900;113.935000
 ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
