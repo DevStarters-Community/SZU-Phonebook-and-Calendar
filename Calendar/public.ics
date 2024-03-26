@@ -183,6 +183,66 @@ ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/ma
 END:VEVENT
 
 BEGIN:VEVENT
+UID:20240404T080000Z-550e8400-e29b-41d4-a716-446655440010@DevStarters.org
+DTSTAMP:20240223T160000Z
+DTSTART;VALUE=DATE:20240404
+DTEND;VALUE=DATE:20240405
+SUMMARY:清明假期
+DESCRIPTION:2023-2024学年第二学期清明假期第一天\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
+LOCATION:广东省深圳市南山区南海大道3688号深圳大学
+GEO:22.531900;113.935000
+ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
+URL:https://www.szu.edu.cn/xxgk/xl.htm
+ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86.png
+ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86%E8%AF%B4%E6%98%8E.png
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240405T080000Z-550e8400-e29b-41d4-a716-446655440010@DevStarters.org
+DTSTAMP:20240223T160000Z
+DTSTART;VALUE=DATE:20240405
+DTEND;VALUE=DATE:20240406
+SUMMARY:清明假期
+DESCRIPTION:2023-2024学年第二学期清明假期第二天\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
+LOCATION:广东省深圳市南山区南海大道3688号深圳大学
+GEO:22.531900;113.935000
+ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
+URL:https://www.szu.edu.cn/xxgk/xl.htm
+ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86.png
+ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86%E8%AF%B4%E6%98%8E.png
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240406T080000Z-550e8400-e29b-41d4-a716-446655440010@DevStarters.org
+DTSTAMP:20240223T160000Z
+DTSTART;VALUE=DATE:20240406
+DTEND;VALUE=DATE:20240407
+SUMMARY:清明假期
+DESCRIPTION:2023-2024学年第二学期清明假期第三天\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
+LOCATION:广东省深圳市南山区南海大道3688号深圳大学
+GEO:22.531900;113.935000
+ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
+URL:https://www.szu.edu.cn/xxgk/xl.htm
+ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86.png
+ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86%E8%AF%B4%E6%98%8E.png
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240407T080000Z-550e8400-e29b-41d4-a716-446655440010@DevStarters.org
+DTSTAMP:20240223T160000Z
+DTSTART;VALUE=DATE:20240406
+DTEND;VALUE=DATE:20240407
+SUMMARY:清明补课日
+DESCRIPTION:2023-2024学年第二学期清明补课\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
+LOCATION:广东省深圳市南山区南海大道3688号深圳大学
+GEO:22.531900;113.935000
+ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
+URL:https://www.szu.edu.cn/xxgk/xl.htm
+ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86.png
+ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86%E8%AF%B4%E6%98%8E.png
+END:VEVENT
+
+BEGIN:VEVENT
 UID:20240304T080000Z-550e8400-e29b-41d4-a716-446655440011@DevStarters.org
 DTSTAMP:20240223T160000Z
 DTSTART;VALUE=DATE:20240408
