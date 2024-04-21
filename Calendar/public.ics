@@ -302,7 +302,7 @@ DTSTAMP:20240223T160000Z
 DTSTART;VALUE=DATE:20240428
 DTEND;VALUE=DATE:20240429
 SUMMARY:五一补课日
-DESCRIPTION:2023-2024学年第二学期五一补课,具体调（停）课安排由教务部、研究生院及继续教育学院另行通知。\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
+DESCRIPTION:2023-2024学年第二学期五一补课,补上5月3日（星期五）的课程；\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
 LOCATION:广东省深圳市南山区南海大道3688号深圳大学
 GEO:22.531900;113.935000
 ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
@@ -422,7 +422,7 @@ DTSTAMP:20240223T160000Z
 DTSTART;VALUE=DATE:20240511
 DTEND;VALUE=DATE:20240512
 SUMMARY:五一补课日
-DESCRIPTION:2023-2024学年第二学期五一补课,具体调（停）课安排由教务部、研究生院及继续教育学院另行通知。\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
+DESCRIPTION:2023-2024学年第二学期五一补课,补上5月2日（星期四）的课程。\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
 LOCATION:广东省深圳市南山区南海大道3688号深圳大学
 GEO:22.531900;113.935000
 ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
