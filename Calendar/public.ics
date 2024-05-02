@@ -332,7 +332,7 @@ DTSTAMP:20240223T160000Z
 DTSTART;VALUE=DATE:20240501
 DTEND;VALUE=DATE:20240506
 SUMMARY:五一假期
-DESCRIPTION:2023-2024学年第二学期五一假期第一天\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！\nhttps://www1.szu.edu.cn/board/view.asp?id=516425
+DESCRIPTION:2023-2024学年第二学期五一假期\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！\nhttps://www1.szu.edu.cn/board/view.asp?id=516425
 LOCATION:广东省深圳市南山区南海大道3688号深圳大学
 GEO:22.531900;113.935000
 ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
@@ -343,66 +343,6 @@ TRANSP:TRANSPARENT
 CATEGORIES:節慶
 X-APPLE-SPECIAL-DAY:WORK-HOLIDAY
 X-APPLE-UNIVERSAL-ID:7f80de1c-4cdc-55a9-40c4-72789a37bafc
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20240502T080000Z-550e8400-e29b-41d4-a716-446655440010@DevStarters.org
-DTSTAMP:20240223T160000Z
-DTSTART;VALUE=DATE:20240502
-DTEND;VALUE=DATE:20240503
-SUMMARY:五一假期
-DESCRIPTION:2023-2024学年第二学期五一假期第二天\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！\nhttps://www1.szu.edu.cn/board/view.asp?id=516425
-LOCATION:广东省深圳市南山区南海大道3688号深圳大学
-GEO:22.531900;113.935000
-ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
-URL:https://www.szu.edu.cn/xxgk/xl.htm
-ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86.png
-ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86%E8%AF%B4%E6%98%8E.png
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20240503T080000Z-550e8400-e29b-41d4-a716-446655440010@DevStarters.org
-DTSTAMP:20240223T160000Z
-DTSTART;VALUE=DATE:20240503
-DTEND;VALUE=DATE:20240504
-SUMMARY:五一假期
-DESCRIPTION:2023-2024学年第二学期五一假期第三天\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！\nhttps://www1.szu.edu.cn/board/view.asp?id=516425
-LOCATION:广东省深圳市南山区南海大道3688号深圳大学
-GEO:22.531900;113.935000
-ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
-URL:https://www.szu.edu.cn/xxgk/xl.htm
-ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86.png
-ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86%E8%AF%B4%E6%98%8E.png
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20240504T080000Z-550e8400-e29b-41d4-a716-446655440010@DevStarters.org
-DTSTAMP:20240223T160000Z
-DTSTART;VALUE=DATE:20240504
-DTEND;VALUE=DATE:20240505
-SUMMARY:五一假期
-DESCRIPTION:2023-2024学年第二学期五一假期第四天\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！\nhttps://www1.szu.edu.cn/board/view.asp?id=516425
-LOCATION:广东省深圳市南山区南海大道3688号深圳大学
-GEO:22.531900;113.935000
-ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
-URL:https://www.szu.edu.cn/xxgk/xl.htm
-ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86.png
-ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86%E8%AF%B4%E6%98%8E.png
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20240505T080000Z-550e8400-e29b-41d4-a716-446655440010@DevStarters.org
-DTSTAMP:20240223T160000Z
-DTSTART;VALUE=DATE:20240505
-DTEND;VALUE=DATE:20240506
-SUMMARY:五一假期
-DESCRIPTION:2023-2024学年第二学期五一假期第五天\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！\nhttps://www1.szu.edu.cn/board/view.asp?id=516425
-LOCATION:广东省深圳市南山区南海大道3688号深圳大学
-GEO:22.531900;113.935000
-ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
-URL:https://www.szu.edu.cn/xxgk/xl.htm
-ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86.png
-ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86%E8%AF%B4%E6%98%8E.png
 END:VEVENT
 
 BEGIN:VEVENT
@@ -425,7 +365,9 @@ UID:20240511T080000Z-550e8400-e29b-41d4-a716-446655440014@DevStarters.org
 DTSTAMP:20240223T160000Z
 DTSTART;VALUE=DATE:20240511
 DTEND;VALUE=DATE:20240512
+CLASS:PUBLIC
 SUMMARY:五一补课日
+TRANSP:TRANSPARENT
 DESCRIPTION:2023-2024学年第二学期五一补课,补上5月2日（星期四）的课程。\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
 LOCATION:广东省深圳市南山区南海大道3688号深圳大学
 GEO:22.531900;113.935000
@@ -433,6 +375,9 @@ ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
 URL:https://www.szu.edu.cn/xxgk/xl.htm
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86.png
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86%E8%AF%B4%E6%98%8E.png
+CATEGORIES:節慶
+X-APPLE-SPECIAL-DAY:ALTERNATE-WORKDAY
+X-APPLE-UNIVERSAL-ID:7f80de1c-4cdc-55a9-40c4-72789a37bafc
 END:VEVENT
 
 BEGIN:VEVENT
