@@ -339,6 +339,7 @@ ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
 URL:https://www.szu.edu.cn/xxgk/xl.htm
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86.png
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86%E8%AF%B4%E6%98%8E.png
+X-APPLE-SPECIAL-DAY:WORK-HOLIDAY
 END:VEVENT
 
 BEGIN:VEVENT
