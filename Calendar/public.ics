@@ -384,12 +384,13 @@ BEGIN:VEVENT
 UID:20240304T080000Z-550e8400-e29b-41d4-a716-446655440016@DevStarters.org
 DTSTAMP:20240223T160000Z
 DTSTART;VALUE=DATE:20240513
-DTEND;VALUE=DATE:20240514
+DTEND;VALUE=DATE:20240520
 SUMMARY:第十一周
-DESCRIPTION:2023-2024学年第二学期第十一周开始\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
+DESCRIPTION:2023-2024学年第二学期第十一周\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
 LOCATION:广东省深圳市南山区南海大道3688号深圳大学
 GEO:22.531900;113.935000
 ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
+TRANSP:TRANSPARENT
 URL:https://www.szu.edu.cn/xxgk/xl.htm
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86.png
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86%E8%AF%B4%E6%98%8E.png
@@ -399,12 +400,13 @@ BEGIN:VEVENT
 UID:20240304T080000Z-550e8400-e29b-41d4-a716-446655440017@DevStarters.org
 DTSTAMP:20240223T160000Z
 DTSTART;VALUE=DATE:20240520
-DTEND;VALUE=DATE:20240521
+DTEND;VALUE=DATE:20240527
 SUMMARY:第十二周
-DESCRIPTION:2023-2024学年第二学期第十二周开始\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
+DESCRIPTION:2023-2024学年第二学期第十二周\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
 LOCATION:广东省深圳市南山区南海大道3688号深圳大学
 GEO:22.531900;113.935000
 ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
+TRANSP:TRANSPARENT
 URL:https://www.szu.edu.cn/xxgk/xl.htm
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86.png
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86%E8%AF%B4%E6%98%8E.png
@@ -414,12 +416,13 @@ BEGIN:VEVENT
 UID:20240304T080000Z-550e8400-e29b-41d4-a716-446655440018@DevStarters.org
 DTSTAMP:20240223T160000Z
 DTSTART;VALUE=DATE:20240527
-DTEND;VALUE=DATE:20240528
+DTEND;VALUE=DATE:20240603
 SUMMARY:第十三周
-DESCRIPTION:2023-2024学年第二学期第十三周开始\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
+DESCRIPTION:2023-2024学年第二学期第十三周\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
 LOCATION:广东省深圳市南山区南海大道3688号深圳大学
 GEO:22.531900;113.935000
 ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
+TRANSP:TRANSPARENT
 URL:https://www.szu.edu.cn/xxgk/xl.htm
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86.png
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86%E8%AF%B4%E6%98%8E.png
@@ -429,12 +432,13 @@ BEGIN:VEVENT
 UID:20240304T080000Z-550e8400-e29b-41d4-a716-446655440019@DevStarters.org
 DTSTAMP:20240223T160000Z
 DTSTART;VALUE=DATE:20240603
-DTEND;VALUE=DATE:20240604
+DTEND;VALUE=DATE:20240610
 SUMMARY:第十四周
-DESCRIPTION:2023-2024学年第二学期第十四周开始\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
+DESCRIPTION:2023-2024学年第二学期第十四周\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
 LOCATION:广东省深圳市南山区南海大道3688号深圳大学
 GEO:22.531900;113.935000
 ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
+TRANSP:TRANSPARENT
 URL:https://www.szu.edu.cn/xxgk/xl.htm
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86.png
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86%E8%AF%B4%E6%98%8E.png
@@ -444,12 +448,13 @@ BEGIN:VEVENT
 UID:20240304T080000Z-550e8400-e29b-41d4-a716-446655440020@DevStarters.org
 DTSTAMP:20240223T160000Z
 DTSTART;VALUE=DATE:20240610
-DTEND;VALUE=DATE:20240611
+DTEND;VALUE=DATE:20240617
 SUMMARY:第十五周
-DESCRIPTION:2023-2024学年第二学期第十五周开始\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
+DESCRIPTION:2023-2024学年第二学期第十五周\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
 LOCATION:广东省深圳市南山区南海大道3688号深圳大学
 GEO:22.531900;113.935000
 ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
+TRANSP:TRANSPARENT
 URL:https://www.szu.edu.cn/xxgk/xl.htm
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86.png
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86%E8%AF%B4%E6%98%8E.png
@@ -459,12 +464,13 @@ BEGIN:VEVENT
 UID:20240304T080000Z-550e8400-e29b-41d4-a716-446655440021@DevStarters.org
 DTSTAMP:20240223T160000Z
 DTSTART;VALUE=DATE:20240617
-DTEND;VALUE=DATE:20240618
+DTEND;VALUE=DATE:20240624
 SUMMARY:第十六周
-DESCRIPTION:2023-2024学年第二学期第十六周开始\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
+DESCRIPTION:2023-2024学年第二学期第十六周\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
 LOCATION:广东省深圳市南山区南海大道3688号深圳大学
 GEO:22.531900;113.935000
 ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
+TRANSP:TRANSPARENT
 URL:https://www.szu.edu.cn/xxgk/xl.htm
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86.png
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86%E8%AF%B4%E6%98%8E.png
@@ -474,12 +480,13 @@ BEGIN:VEVENT
 UID:20240304T080000Z-550e8400-e29b-41d4-a716-446655440022@DevStarters.org
 DTSTAMP:20240223T160000Z
 DTSTART;VALUE=DATE:20240624
-DTEND;VALUE=DATE:20240625
+DTEND;VALUE=DATE:20240701
 SUMMARY:第十七周
-DESCRIPTION:2023-2024学年第二学期第十七周开始\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
+DESCRIPTION:2023-2024学年第二学期第十七周\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
 LOCATION:广东省深圳市南山区南海大道3688号深圳大学
 GEO:22.531900;113.935000
 ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
+TRANSP:TRANSPARENT
 URL:https://www.szu.edu.cn/xxgk/xl.htm
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86.png
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86%E8%AF%B4%E6%98%8E.png
@@ -489,12 +496,13 @@ BEGIN:VEVENT
 UID:20240304T080000Z-550e8400-e29b-41d4-a716-446655440023@DevStarters.org
 DTSTAMP:20240223T160000Z
 DTSTART;VALUE=DATE:20240701
-DTEND;VALUE=DATE:20240702
+DTEND;VALUE=DATE:20240708
 SUMMARY:第十八周（期末考试周）
-DESCRIPTION:2023-2024学年第二学期第十八周期末考试周开始\n编程小白社祝您考试顺利！\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
+DESCRIPTION:2023-2024学年第二学期第十八周期末考试周\n编程小白社祝您考试顺利！\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
 LOCATION:广东省深圳市南山区南海大道3688号深圳大学
 GEO:22.531900;113.935000
 ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
+TRANSP:TRANSPARENT
 URL:https://www.szu.edu.cn/xxgk/xl.htm
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86.png
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86%E8%AF%B4%E6%98%8E.png
@@ -503,13 +511,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:20240304T080000Z-550e8400-e29b-41d4-a716-446655440024@DevStarters.org
 DTSTAMP:20240223T160000Z
-DTSTART;VALUE=DATE:20240712
-DTEND;VALUE=DATE:20240713
+DTSTART;VALUE=DATE:20240708
+DTEND;VALUE=DATE:20240712
 SUMMARY:第十九周（期末考试周）
-DESCRIPTION:2023-2024学年第二学期第十九周期末考试周结束\n编程小白社祝您好运！\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
+DESCRIPTION:2023-2024学年第二学期第十九周期末考试周\n编程小白社祝您考试顺利！\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
 LOCATION:广东省深圳市南山区南海大道3688号深圳大学
 GEO:22.531900;113.935000
 ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
+TRANSP:TRANSPARENT
 URL:https://www.szu.edu.cn/xxgk/xl.htm
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86.png
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86%E8%AF%B4%E6%98%8E.png
@@ -519,12 +528,13 @@ BEGIN:VEVENT
 UID:20240304T080000Z-550e8400-e29b-41d4-a716-446655440025@DevStarters.org
 DTSTAMP:20240223T160000Z
 DTSTART;VALUE=DATE:20240722
-DTEND;VALUE=DATE:20240723
-SUMMARY:暑假开始
+DTEND;VALUE=DATE:20240826
+SUMMARY:暑假
 DESCRIPTION:2023-2024学年第二学期结束\n编程小白社祝您假期愉快！\n如与官方安排有别，请以官方为准，并第一时间反馈给 Support@DevStarters.org ，谢谢！
 LOCATION:广东省深圳市南山区南海大道3688号深圳大学
 GEO:22.531900;113.935000
 ORGANIZER;CN="深圳大学教务部":MAILTO:no-reply@szu.edu.cn
+TRANSP:TRANSPARENT
 URL:https://www.szu.edu.cn/xxgk/xl.htm
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86.png
 ATTACH:https://gitee.com/DevStarters-Community/SZU-Phonebook-and-Calendar/raw/main/Calendar/2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%A0%A1%E5%8E%86%E8%AF%B4%E6%98%8E.png
